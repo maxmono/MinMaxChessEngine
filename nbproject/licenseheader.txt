@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This is an open source project, feel free to use it by any mean
+${licensePrefix} for inquiries, please email me at s-mmegahed@zewailcity.edu.eg
+
+<#if licenseLast??>
+${licenseLast}
+</#if>
